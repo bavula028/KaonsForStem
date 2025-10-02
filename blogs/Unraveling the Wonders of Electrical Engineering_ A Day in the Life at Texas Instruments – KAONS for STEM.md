@@ -1,5 +1,5 @@
 ---
-title: Unraveling the Wonders of Electrical Engineering: A Day in the Life at Texas Instruments – KAONS for STEM
+title: Unraveling the Wonders of Electrical Engineering - A Day in the Life at Texas Instruments 
 date: 2025-10-01
 status: published
 ---
@@ -8,11 +8,7 @@ status: published
 
 # Unraveling the Wonders of Electrical Engineering: A Day in the Life at Texas Instruments
 
-[Mar 8, 2025](https://kaonsrobotics.ar-logs.com/2025/03/08/unraveling-the-wonders-of-electrical-engineering-a-day-in-the-life-at-texas-instruments/)—
-
-by
-
-[user](https://kaonsrobotics.ar-logs.com/author/user/)[STEM Professionals](https://kaonsrobotics.ar-logs.com/category/stem-professionals/)Have you ever thought about what goes into creating the tiny circuits
+Have you ever thought about what goes into creating the tiny circuits
  that make your favorite gadgets work? Meet Najeeb Ayoka, a dedicated 
 23-year-old electrical engineer at Texas Instruments. Every day, he 
 immerses himself in the remarkable field of electric engineering, and 
